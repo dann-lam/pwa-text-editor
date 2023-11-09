@@ -1,6 +1,8 @@
 # Text Editor
 
-![Link to Heroku Deploy!](https://pwa-text-editorrr.herokuapp.com/)
+
+https://github.com/dann-lam/pwa-text-editor/assets/15963035/502ba32a-6874-4664-acf7-6b8d492e7978
+
 
 ## Technology Used
 
